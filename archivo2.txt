@@ -1,1 +1,2 @@
 sas
+A partir de aquí hacemos una rama, creamos un archivo en la nueva rama, luego creamos el mismo archivo en la master, hacemos commit en ambas y las unimos
